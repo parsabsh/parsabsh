@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @parsabsh
-- 👀 I’m interested in violin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me m.p.bashari@gmail.com
 
