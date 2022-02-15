@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @parsabsh
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mohammad Parsa Bashari
 - 📫 How to reach me m.p.bashari@gmail.com
 
 <!---
