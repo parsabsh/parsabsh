@@ -6,7 +6,7 @@ Computer Engineering Student at Sharif University of Technology
 
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [m.p.bashari@gmail.com](mailto:m.p.bashari@gmail.com)
-* 🚀  I'm currently working on [Project of AP course](http://github.com/AdvancedProgrammingSUT2022/project-group-15)
+* 🚀  I'm currently working on [Project of "Advanced Programming" course](http://github.com/AdvancedProgrammingSUT2022/project-group-15)
 * 🧠  I'm learning Java
 
 ### Skills
