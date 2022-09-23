@@ -6,8 +6,6 @@ Computer Engineering Student at Sharif University of Technology
 
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [m.p.bashari@gmail.com](mailto:m.p.bashari@gmail.com)
-* 🚀  I'm currently working on [Android Internship in Talkademy](https://github.com/Talkademy/Android-Internship)
-* 🧠  I'm learning Android
 
 ### Skills
 
