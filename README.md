@@ -37,12 +37,14 @@ I started my computer engineering undergraduate course at Sharif University of T
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
 <a href="http://www.github.com/parsabsh"><img src="https://github-readme-stats.vercel.app/api?username=parsabsh&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="parsabsh's GitHub stats" /></a>
 
 <a href="https://github.com/parsabsh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsabsh&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/parsabsh/linux-notes" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=parsabsh&repo=linux-notes&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/parsabsh/cuphead" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=parsabsh&repo=cuphead&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/parsabsh/linux-notes" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=parsabsh&repo=linux-notes&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/parsabsh/design-patterns" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=parsabsh&repo=design-patterns&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/parsabsh/civilization" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=parsabsh&repo=civilization&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/parsabsh/design-patterns" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=parsabsh&repo=design-patterns&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/parsabsh/civilization" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=parsabsh&repo=civilization&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/parsabsh/cuphead" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=parsabsh&repo=cuphead&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
