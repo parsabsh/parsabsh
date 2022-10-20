@@ -8,6 +8,7 @@ I started my computer engineering undergraduate course at Sharif University of T
 
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [m.p.bashari@gmail.com](mailto:m.p.bashari@gmail.com)
+* 🚀  I'm currently working on [My Linux Tutorial (Cheat Sheet)](http://github.com/parsabsh/linux-notes)
 
 ### Skills
 
