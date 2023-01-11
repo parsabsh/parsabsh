@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parsa Bashari
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Parsa Bashari
 ==============================================================================================================================================
 
 Computer Engineering Student at Sharif University of Technology
 ---------------------------------------------------------------
 
-I started my computer engineering undergraduate course at Sharif University of Technology in fall 2021.
+I'm a sophomore of Computer Engineering at Sharif University of Technology.
 
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [m.p.bashari@gmail.com](mailto:m.p.bashari@gmail.com)
