@@ -33,7 +33,7 @@ I'm a sophomore of Computer Engineering at Sharif University of Technology.
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/parsabsh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/parsabsh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://telegram.me/parsabashari" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /></a></p>
 
 ### Badges
 <div width="100%" align="center">
